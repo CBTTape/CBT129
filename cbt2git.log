@@ -1,0 +1,7 @@
+2023-04-02 22:06:17.142597 - Initialized conversion of CBT129
+2023-04-02 22:06:17.171169 - Received CBT.V504.FILE129.PDS from FILE129.XMI 
+2023-04-02 22:06:17.174027 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE129.PDS, moved to PDS/$$$DOC
+2023-04-02 22:06:17.175343 - Found $$$DOC1.txt (text/plain) in CBT.V504.FILE129.PDS, moved to PDS/$$$DOC1
+2023-04-02 22:06:17.176526 - Found @FILE129.txt (text/plain) in CBT.V504.FILE129.PDS, moved to PDS/@FILE129
+2023-04-02 22:06:17.177518 - Found OLDZAP.txt (text/plain) in CBT.V504.FILE129.PDS, moved to PDS/OLDZAP
+2023-04-02 22:06:17.178726 - Found SHRDASD.txt (text/plain) in CBT.V504.FILE129.PDS, moved to PDS/SHRDASD
