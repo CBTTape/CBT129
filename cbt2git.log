@@ -1,0 +1,6 @@
+2025-04-13 14:03:36.179407 - Received CBT.V505.FILE129.PDS from FILE129.XMI 
+2025-04-13 14:03:36.180081 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE129.PDS, moved to PDS/$$$DOC
+2025-04-13 14:03:36.180171 - Found $$$DOC1.txt (text/plain) in CBT.V505.FILE129.PDS, moved to PDS/$$$DOC1
+2025-04-13 14:03:36.180236 - Found @FILE129.txt (text/plain) in CBT.V505.FILE129.PDS, moved to PDS/@FILE129
+2025-04-13 14:03:36.180294 - Found OLDZAP.txt (text/plain) in CBT.V505.FILE129.PDS, moved to PDS/OLDZAP
+2025-04-13 14:03:36.180353 - Found SHRDASD.txt (text/plain) in CBT.V505.FILE129.PDS, moved to PDS/SHRDASD
